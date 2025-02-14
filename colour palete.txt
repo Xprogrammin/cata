@@ -1,0 +1,12 @@
+Here's the expanded color palette with three more colors:
+
+Color Palette:
+
+Main Blue: #0a82fc (a vibrant, saturated blue)
+Light Blue: #6ea2fd (a lighter, less saturated version of the main blue)
+White: #fff (pure white)
+Light Gray: #f2f2f2 (a subtle, neutral gray)
+Dark Gray: #555555 (a darker gray for contrast)
+Black: #000000 (black)
+Dark Blue: #000080 (dark blue)
+Light Gray 2: #e6e6e6 (another shade of light gray)
